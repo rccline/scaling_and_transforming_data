@@ -1,5 +1,5 @@
 ---
-title: "Z Score Example"
+title: "Z Score Example from GSS"
 author: "Bruno Ponne"
 format: html
 editor: visual
